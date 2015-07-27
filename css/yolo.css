@@ -1,0 +1,19 @@
+#indepth_cover{
+	height: 1080px;
+	width: 100%;
+	background-image: url("../images/cover.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto 1080px;
+	position: relative;
+}
+#emmbed{
+	width: 1000px;
+	height: 935px;
+	position: absolute;
+	margin: auto;
+	left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
