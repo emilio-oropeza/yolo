@@ -17,3 +17,23 @@
     bottom: 0;
     top: 0;
 }
+@media(max-width: 1024px){
+	#emmbed {
+	    height: 605px;
+		width: 650px;
+	}
+	#indepth_cover{
+		background-size: auto 700px;
+		height: 700px;
+	}
+}
+@media(max-width: 720px){
+	#indepth_cover {
+	    height: 100vh;
+	    background-size: 400vw 100vh;
+	}
+	#emmbed {
+	    height: 85vh;
+	    width: 90vw;
+	}
+}
